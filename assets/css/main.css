@@ -348,7 +348,7 @@ button:focus{
     text-transform: capitalize;
     margin-top: 30px;
     padding: 13px 31px;
-    font-size: 29px;
+    font-size: 20px;
 }
 /* ScrollToTop */
 
@@ -532,7 +532,7 @@ a.back-to-top:hover, a.back-to-top:focus{
 	top: 0;
 }
 .banner_content{
-	margin-top: 120px;
+	margin-top: 150px;
 }
 .banner_content strong{
     font-size: 30px;
