@@ -312,7 +312,7 @@ button:focus{
 .btn-secondary.banner_btn{
     background: #08d665;
     border-color: #08d665;
-    color: #bd2a2a;
+    color: rgb(255, 255, 255);
     text-transform: capitalize;
     margin-top: 30px;
     padding: 13px 31px;
